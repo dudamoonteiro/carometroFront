@@ -1,0 +1,49 @@
+.pai-aluno {
+    background-color:black;
+    height: 100vh;
+    width: 100vw;
+  }
+
+  .caixa-aluno{
+    background-color: #F1E9E9;
+    width: 25vw;
+    height: 55vh;
+    margin-top: 100px;
+    margin-left: 80px;
+    border-radius: 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    align-items: flex-end;
+  }
+
+
+.Celular{
+  
+}
+.nome {
+  color: white;
+  margin-top: 100px;
+  margin-left: 100px;
+  }
+
+.infaluno{
+  display: flex;
+  flex-direction: row;
+}
+
+.EmailAluna{
+  color: white;
+  margin-top: 30px;
+}
+
+.ocorrencias{
+  margin-top: -100px;
+  margin-left: 565px;
+}
+
+.OC{
+  height: 20vh;
+  width: 46vw;
+  margin-top: -45px;
+}
